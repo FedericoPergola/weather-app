@@ -1,0 +1,15 @@
+
+.weather-box .temp{
+    position: relative;
+    display: inline-block;
+    margin: 30px auto;
+    background-color: rgb(135, 138, 138);
+    border-radius: 16px;
+    padding: 15px 25px;
+   
+}
+
+h3 h4{
+    font-size: 102px;
+    font-weight: 900;
+}
